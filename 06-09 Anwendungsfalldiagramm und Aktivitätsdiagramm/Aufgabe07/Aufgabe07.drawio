@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T17:04:19.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.5" etag="uAoZI7ybxultEG9liqlB" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-17T17:05:36.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="z_JQ-Q3TNtCkpI3icCSN" version="23.1.5" type="github">
   <diagram name="Seite-1" id="Nl9usoqz95ofldMCD9oy">
-    <mxGraphModel>
+    <mxGraphModel dx="1841" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="C-fvTD6KyylK5w_YxrY3-1" value="Autonutzung" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=80;height=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="600" height="360" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
