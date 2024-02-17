@@ -1,2 +1,2 @@
 # Modellierung
-beinhaltet Aufgaben und LÖsungen für Modellierung
+beinhaltet Aufgaben und Lösungen für Modellierung WiSe23/24
