@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T12:55:18.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="chHrX0lGaoPnHfoPRrCS" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T12:57:05.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="E5t6mM9KDfK5Jx_V4Ddf" version="23.1.5" type="github">
   <diagram name="Seite-1" id="wIRSmF9mO9mYcYjR1PRm">
     <mxGraphModel dx="877" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,7 +155,7 @@
         <mxCell id="CwV0MnyVdzncbr3xT1BF-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="CwV0MnyVdzncbr3xT1BF-5" source="CwV0MnyVdzncbr3xT1BF-41" target="CwV0MnyVdzncbr3xT1BF-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CwV0MnyVdzncbr3xT1BF-41" value="gelb blinken" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CwV0MnyVdzncbr3xT1BF-5">
+        <mxCell id="CwV0MnyVdzncbr3xT1BF-41" value="Ausfall" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CwV0MnyVdzncbr3xT1BF-5">
           <mxGeometry x="250" y="220" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
