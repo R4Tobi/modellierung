@@ -1,4 +1,5 @@
-## Übungsaufgabe 15 - Uhr
+# Übungsaufgabe 15 - Uhr
+
 Modellieren Sie unter Nutzung eines Petri-Netzes eine Uhr, so
 dass an der jeweiligen Markierung die aktuelle Uhrzeit
 ablesbar ist. Beachten Sie folgende Hinweise und
@@ -15,3 +16,7 @@ Transition schalten kann.
 - Ergänzen Sie nun Ihr Petri-Netz um eine Stelle mit Kapazität,
 welche die jeweilige Stunde „digital“ durch ihre Belegung mit
 0 bis 11 Marken anzeigt.
+
+## Lösung
+
+![lösung](./Aufgabe15.1.png)

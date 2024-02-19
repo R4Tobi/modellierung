@@ -1,4 +1,5 @@
-## Übungsaufgabe 19 – Schadensmeldung
+# Übungsaufgabe 19 – Schadensmeldung
+
 Modellieren Sie den Ablauf einer Schadensabwicklung
 zwischen Kunde und Versicherung:
 
@@ -15,3 +16,7 @@ Schadensfall an.
 wurde, leitet der Sachbearbeiter die Regulierung des Schadens ein.
 - Nach erfolgter Regulierung kann die Akte dann geschlossen
 werden.
+
+## Lösung
+
+![lösung](./Aufgabe19.png)

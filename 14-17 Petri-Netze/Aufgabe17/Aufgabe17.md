@@ -1,4 +1,5 @@
-## Übungsaufgabe 17 - Zombie
+# Übungsaufgabe 17 - Zombie
+
 Modellieren Sie unter Nutzung eines Petri-Netzes die
 Herstellung eines Zombies (Cocktail) mit folgenden
 Eigenschaften!
@@ -17,3 +18,7 @@ geschüttelt. Danach werden ein paar frische Eiswürfel in ein Longdrinkglas
 gegeben und das Gemisch darin abgeseiht. Zum Abschluss lässt der
 Barkeeper den Rum Overproof einfließen und dekoriert den Drink mit einem
 Cocktailspieß aus zwei Cocktailkirschen oder einer Orangenspalte.
+
+## Lösung
+
+![lösung](./Aufgabe17.png)

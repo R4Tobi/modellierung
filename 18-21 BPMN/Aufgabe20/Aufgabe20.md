@@ -1,4 +1,5 @@
-## Übungsaufgabe 20 - Werbeanzeige
+# Übungsaufgabe 20 - Werbeanzeige
+
 Modellieren Sie den Ablauf zur Erstellung einer Werbeanzeige
 als Choreographiediagramm:
 
@@ -17,3 +18,7 @@ dessen Verfügbarkeit ab.
 - Daraufhin erstellt der Grafiker das notwendige Material und
 sendet es der Agentur.
 - Abschließend holt die Agentur beim Kunden die Freigabe ein.
+
+## Lösung
+
+![lösung](./Aufgabe20.png)

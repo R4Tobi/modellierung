@@ -14,4 +14,4 @@ b) Geben Sie zu allen Entitäten mindestens drei Attribute an.
 
 ## Lösung
 
-![anhang](./Aufgabe01.png)
+![lösung](./Aufgabe01.png)

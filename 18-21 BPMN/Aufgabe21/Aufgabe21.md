@@ -1,4 +1,5 @@
-## Übungsaufgabe 21 - CDN
+# Übungsaufgabe 21 - CDN
+
 Modellieren Sie eine Anfrage an ein Content Delivery Network
 (CDN) in BPMN. Gruppieren Sie dafür die beschriebenen
 Vorgänge im CDN (Ereignisse, die nicht direkt im CDN liegen,
@@ -14,3 +15,7 @@ muss mehr Ressourcen (z.B. Server) bereitstellen.
 werden, sobald die Anfrage an der ersten stelle in der Queue ist.
 - Nachdem die Antwort erstellt wurde, sind im CDN keine weiteren
 Schritte notwendig und die Antwort kann ausgeliefert werden.
+
+## Lösung
+
+![lösung](./Aufgabe21.png)

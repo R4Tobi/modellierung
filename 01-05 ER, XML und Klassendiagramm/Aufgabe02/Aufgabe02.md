@@ -11,4 +11,4 @@ b) Geben Sie Beispieldaten für eine Tabellenstruktur an.
 
 ## Lösung
 
-![anhang](./Aufgabe02.png)
+![lösung](./Aufgabe02.png)

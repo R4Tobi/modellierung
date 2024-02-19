@@ -1,5 +1,5 @@
+# Übungsaufgabe 15 – Bahnstrecke (I/II)
 
-## Übungsaufgabe 15 – Bahnstrecke (I/II)
 Modellieren Sie unter Nutzung eines Petri-Netzes ein
 Bahnnetz mit folgenden Eigenschaften!
 
@@ -13,3 +13,7 @@ Streckenabschnitt kann genau ein Zug (egal in welche Richtung)
 unterwegs sein.
 - Die Züge fahren immer von A über B nach C und wieder zurück
 über B nach A, sie kehren also nicht unterwegs um.
+
+## Lösung
+
+![lösung](./Aufgabe15.2.png)

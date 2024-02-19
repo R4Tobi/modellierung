@@ -11,4 +11,4 @@ Beachten Sie dabei:
 
 ## Lösung
 
-![anhang](./Aufgabe03.png)
+![lösung](./Aufgabe03.png)

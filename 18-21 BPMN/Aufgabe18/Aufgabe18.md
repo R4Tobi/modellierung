@@ -1,4 +1,5 @@
-## Übungsaufgabe 18 - Pizzabestellung
+# Übungsaufgabe 18 - Pizzabestellung
+
 Modellieren Sie mit Hilfe von BPMN den Ablauf der Bestellung
 und Lieferung einer Pizza:
 
@@ -16,3 +17,7 @@ entweder mit oder ohne Rückfrage
 schließlich noch das Geld für die Pizza kassieren!
 - Für den Lieferanten ist die Fahrt dann beendet, so dass er zum
 Pizzaservice zurückfahren kann und Ihr Hunger ist endlich gestillt.
+
+## Lösung
+
+![lösung](./Aufgabe18.png)
