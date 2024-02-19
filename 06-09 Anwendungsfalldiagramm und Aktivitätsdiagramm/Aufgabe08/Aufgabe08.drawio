@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T11:41:41.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jfbiLhqKBlyExRtoUZA9" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-19T11:42:21.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Uky6cj7v0D70lnpcez1-" version="23.1.5" type="github">
   <diagram name="Seite-1" id="2GeeWm8-VFOCi3Yl_yty">
-    <mxGraphModel dx="2166" dy="1173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1270" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,7 +173,7 @@
         </mxCell>
         <mxCell id="jsD26AA25NHtvzkCi40B-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="450" as="sourcePoint" />
+            <mxPoint x="590" y="460" as="sourcePoint" />
             <mxPoint x="730" y="240" as="targetPoint" />
             <Array as="points">
               <mxPoint x="590" y="460" />
