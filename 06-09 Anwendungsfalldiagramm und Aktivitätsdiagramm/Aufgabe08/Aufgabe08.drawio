@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T11:42:21.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Uky6cj7v0D70lnpcez1-" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-19T11:44:26.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="QrO_50ae5oQbT9yIZRQF" version="23.1.5" type="github">
   <diagram name="Seite-1" id="2GeeWm8-VFOCi3Yl_yty">
-    <mxGraphModel dx="1270" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1534" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,19 +130,19 @@
         <mxCell id="jsD26AA25NHtvzkCi40B-44" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Haus möbelieren&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jsD26AA25NHtvzkCi40B-1">
           <mxGeometry x="670" y="170" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jsD26AA25NHtvzkCi40B-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="jsD26AA25NHtvzkCi40B-10" target="jsD26AA25NHtvzkCi40B-2">
+        <mxCell id="jsD26AA25NHtvzkCi40B-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jsD26AA25NHtvzkCi40B-10" target="jsD26AA25NHtvzkCi40B-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="120" y="470" />
+              <mxPoint x="120" y="446" />
               <mxPoint x="120" y="240" />
               <mxPoint x="100" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jsD26AA25NHtvzkCi40B-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="jsD26AA25NHtvzkCi40B-10" target="jsD26AA25NHtvzkCi40B-5">
+        <mxCell id="jsD26AA25NHtvzkCi40B-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jsD26AA25NHtvzkCi40B-10" target="jsD26AA25NHtvzkCi40B-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="120" y="470" />
+              <mxPoint x="120" y="446" />
               <mxPoint x="120" y="360" />
               <mxPoint x="260" y="360" />
             </Array>
@@ -166,6 +166,14 @@
               <mxPoint x="480" y="350" />
               <mxPoint x="620" y="350" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jsD26AA25NHtvzkCi40B-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="jsD26AA25NHtvzkCi40B-11" target="jsD26AA25NHtvzkCi40B-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsD26AA25NHtvzkCi40B-82" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;beauftragen&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jsD26AA25NHtvzkCi40B-81">
+          <mxGeometry x="0.003" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jsD26AA25NHtvzkCi40B-11" value="Hauseigentümer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
