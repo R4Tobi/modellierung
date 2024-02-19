@@ -1,4 +1,4 @@
-Übungsaufgabe 20 - Werbeanzeige
+## Übungsaufgabe 20 - Werbeanzeige
 Modellieren Sie den Ablauf zur Erstellung einer Werbeanzeige
 als Choreographiediagramm:
 
