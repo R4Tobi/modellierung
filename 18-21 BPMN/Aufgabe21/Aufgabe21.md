@@ -4,6 +4,7 @@ Modellieren Sie eine Anfrage an ein Content Delivery Network
 (CDN) in BPMN. Gruppieren Sie dafür die beschriebenen
 Vorgänge im CDN (Ereignisse, die nicht direkt im CDN liegen,
 sind rot hervorgehoben)
+
 - Zunächst wird eine Anfrage gestellt.
 - Diese Anfrage wird dann in eine Queue eingereiht und im
 Anschluss die voraussichtliche Antwortzeit berechnet.
