@@ -1,13 +1,16 @@
-## Übungsaufgabe 4 - Cocktailzusammensetzung
+# Übungsaufgabe 4 - Cocktailzusammensetzung
 
-``` 
 Nutzen Sie das Klassendiagramm um den Aufbau eines Cocktails zu
-beschreiben. 
+beschreiben.
 Dabei sind verschiedene Arten von Cocktails mit jeweils
-1. genau definierten Zutaten (Beispiele), 
+
+1. genau definierten Zutaten (Beispiele),
 2. Utensilien wie Gläser,
 3. Mixer
 4. Krüge
-5. Konsumenten der Getränke 
+5. Konsumenten der Getränke
 zu beachten
-```
+
+## Lösung
+
+![anhang](./Aufgabe04.png)
