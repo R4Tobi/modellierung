@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T12:27:56.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="LwvaspO23_ZJRqaoVaSi" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T12:29:20.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="y8esuIpRSYS0rDLa8MwB" version="24.0.7" type="github">
   <diagram name="Seite-1" id="AQqILg9J_mZ91q_F1waY">
     <mxGraphModel dx="1077" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,11 +21,6 @@
         </mxCell>
         <mxCell id="0WIXX4E22sUgwMQYsPHi-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="0WIXX4E22sUgwMQYsPHi-4" target="0WIXX4E22sUgwMQYsPHi-12">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0WIXX4E22sUgwMQYsPHi-30" value="X" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];spacing=6;labelBorderColor=#FFFFFF;spacingTop=0;fontSize=17;" vertex="1" connectable="0" parent="0WIXX4E22sUgwMQYsPHi-15">
-          <mxGeometry x="0.016" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="0WIXX4E22sUgwMQYsPHi-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="0WIXX4E22sUgwMQYsPHi-4" target="0WIXX4E22sUgwMQYsPHi-13">
           <mxGeometry relative="1" as="geometry" />
@@ -77,6 +72,11 @@
             <mxPoint x="680" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0WIXX4E22sUgwMQYsPHi-31" value="X" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0WIXX4E22sUgwMQYsPHi-23">
+          <mxGeometry x="-0.0158" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0WIXX4E22sUgwMQYsPHi-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="0WIXX4E22sUgwMQYsPHi-24" target="0WIXX4E22sUgwMQYsPHi-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -96,7 +96,7 @@
         <mxCell id="0WIXX4E22sUgwMQYsPHi-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="0WIXX4E22sUgwMQYsPHi-24" target="0WIXX4E22sUgwMQYsPHi-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0WIXX4E22sUgwMQYsPHi-27" value="Website" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+        <mxCell id="0WIXX4E22sUgwMQYsPHi-27" value="Moodle" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="680" y="170" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
